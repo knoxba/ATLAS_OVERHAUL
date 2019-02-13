@@ -1,0 +1,1 @@
+start "" https://bootstrap.pypa.io/get-pip.py
